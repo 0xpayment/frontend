@@ -1,6 +1,6 @@
 # OxPayment UI
 
-> The UI for OxPayment
+> The UI for OxPayment. It's based on hop protocol frontend: https://github.com/hop-protocol/hop/tree/develop/packages/frontend.
 
 ## Getting started
 
